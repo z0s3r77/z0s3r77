@@ -1,9 +1,23 @@
-# :bust_in_silhouette: Hola! Soy z0s3r77
+### :bust_in_silhouette: Hola! Soy z0s3r77
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Mi nombre es Sebas, soy de España y actualmente soy estudiante de un grado superior de ASIR :mortar_board:
+
+🌱 Actualmente estoy trabajando con Docker y Kali Linux
+
+📫 Puedes contactarme: z0s3r77@gmail.com :email:
+
+### :mag_right: Que encontrarás aquí? :computer:
+
+   - Podrás encontrar Docker :whale2:
+   - Apache2 , Nginx y Tomcat9 :cat:
+   - MongoDB y PostgreSQL :bookmark_tabs:
+   - Metasploitable2 y Kali Linux :space_invader:
+   - Nmap :eyes:
+   - Wordpress :globe_with_meridians:
+
+Entre otras cosas. 
+
+En caso de tener alguna duda respecto a algo, no dudéis en contactarme! :v:
 
 
 <!---
