@@ -14,6 +14,7 @@ Mi nombre es Sebas, soy de España y actualmente soy estudiante de un grado supe
    - Metasploitable2 y Kali Linux :space_invader:
    - Nmap :eyes:
    - Wordpress :globe_with_meridians:
+   - Scripts en Bash :heavy_dollar_sign:
 
 Entre otras cosas. 
 
