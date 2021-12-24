@@ -11,7 +11,7 @@ Mi nombre es Sebas, soy de España y actualmente soy estudiante de un grado supe
    - Podrás encontrar Docker :whale2:
    - Apache2 , Nginx y Tomcat9 :cat:
    - MongoDB y PostgreSQL :bookmark_tabs:
-   - Metasploitable2 y Kali Linux :space_invader:
+   - Metasploitable2, Kali Linux, Hacking ... :space_invader:
    - Nmap :eyes:
    - Wordpress :globe_with_meridians:
    - Scripts en Bash :heavy_dollar_sign:
