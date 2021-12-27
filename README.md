@@ -2,7 +2,7 @@
 
 Mi nombre es Sebas, soy de España y actualmente soy estudiante de un grado superior de ASIR :mortar_board:
 
-🌱 Actualmente estoy trabajando con Docker y Kali Linux
+🌱 Actualmente estoy trabajando con Docker y Kali Linux y ParrotOS
 
 📫 Puedes contactarme: z0s3r77@gmail.com :email:
 
