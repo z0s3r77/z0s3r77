@@ -4,8 +4,6 @@ Mi nombre es Sebas, soy de España y actualmente estúdio un grado superior de A
 
 🌱 Actualmente estoy trabajando con Docker y Kali Linux y ParrotOS
 
-📫 Puedes contactarme: z0s3r77@gmail.com :email:
-
 ### :mag_right: Que encontrarás aquí? :computer:
 
    - Podrás encontrar Docker :whale2:
@@ -17,6 +15,9 @@ Mi nombre es Sebas, soy de España y actualmente estúdio un grado superior de A
    - Scripts en Bash :heavy_dollar_sign:
 
 Entre otras cosas. 
+
+
+📫 Puedes contactarme: z0s3r77@gmail.com :email:
 
 En caso de tener alguna duda respecto a algo, no dudéis en contactarme! :v:
 
