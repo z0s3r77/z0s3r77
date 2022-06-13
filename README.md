@@ -1,8 +1,8 @@
 ### :bust_in_silhouette: Hola! Soy z0s3r77
 
-Mi nombre es Sebas, soy de España y actualmente estudio un grado superior de ASIR :mortar_board:
+Mi nombre es z0s3r77, soy de España y actualmente estudio un grado superior de ASIR :mortar_board:
 
-🌱 Actualmente estoy trabajando con Docker y Kali Linux y ParrotOS
+🌱 Actualmente estoy trabajando con Docker y Python
 
 ### :mag_right: Que encontrarás aquí? :computer:
 
