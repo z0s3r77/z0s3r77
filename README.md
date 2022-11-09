@@ -1,6 +1,6 @@
 ### :bust_in_silhouette: Hola! Soy z0s3r77
 
-Mi nombre es z0s3r77, soy de España  :mortar_board:
+Mi nombre es z0s3r77, 
 
 🌱 Actualmente estoy trabajando con Docker y Python
 
