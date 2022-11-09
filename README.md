@@ -27,6 +27,8 @@ En caso de tener alguna duda respecto a algo, no dudéis en contactarme! :v:
 ![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=yellow)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white)
+
 
 
 ![](https://gpvc.arturio.dev/z0s3r77)
