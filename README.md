@@ -1,6 +1,8 @@
 ### :bust_in_silhouette: Hola! Soy z0s3r77
 
 Mi nombre es z0s3r77, 
+![skeleton-83d0cd49](https://user-images.githubusercontent.com/80277545/210391927-b20b5f4a-5512-4550-904b-6a188b641aec.gif)
+__*Paso a paso, codigo a codigo*__
 
 🌱 Actualmente estoy trabajando con Docker y Python
 
