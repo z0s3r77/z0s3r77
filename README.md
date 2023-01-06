@@ -26,6 +26,8 @@ Por el paso por ASIR, pude aprender un poco sobre las siguientes tecnologías:
 
 Entre otras cosas. 
 
+![](https://www.codewars.com/users/z0s3r77/badges/small)
+
 
 📫 Puedes contactarme: z0s3r77@gmail.com :email:
 
