@@ -1,4 +1,4 @@
-# :bust_in_silhouette: Hola! Soy z0s3r77
+# :bust_in_silhouette: Hola! 
 
 Mi nombre es Sebastián, 
 
