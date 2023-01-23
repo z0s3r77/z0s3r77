@@ -40,6 +40,7 @@ En caso de tener alguna duda respecto a algo, no dudéis en contactarme! :v:
 ![MongoDB](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=java&logoColor=yellow)
 
 
 
