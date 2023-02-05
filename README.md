@@ -1,4 +1,4 @@
-# :bust_in_silhouette: Hola! 
+# :bust_in_silhouette: Buenas! 
 
 Mi nombre es Sebastián, 
 ![15e7e300166c962d3b8a22f60b5cac9e](https://user-images.githubusercontent.com/80277545/216848870-17dbd483-b2e9-4e43-a275-12a6abd3c53e.gif)
