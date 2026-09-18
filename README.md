@@ -25,13 +25,16 @@ Por el paso por ASIR, pude aprender un poco sobre las siguientes tecnologías:
    - SMTP, IMAP, POP3
    - Python 🐍:
    - JAVA ☕:
+   - Todo tipo de herramientas con IA
+   - Kubernetes, Servidores Web
+   - Astro 
 
 Entre otras cosas. 
 
 ![](https://www.codewars.com/users/z0s3r77/badges/small)
 
 
-📫 Puedes contactarme: z0s3r77@gmail.com :email:
+📫 Puedes contactarme: ipopdue24@gmail.com :email:
 
 En caso de tener alguna duda respecto a algo, no dudéis en contactarme! :v:
 
