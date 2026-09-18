@@ -6,11 +6,11 @@ Mi nombre es Sebastián,
 
 __*Paso a paso, codigo a codigo*__
 
-🌱 Actualmente estoy cursando un grado superior de desarrollo web.
+🌱 Actualmente estoy trabajando como programador en una gran consultora.
 
 ## Breve descripción: 📖
 
-Para ser breve y no enrollarme. Me adentré en el mundo de la informática en el 2020, cursando un grado superior de ASIR (administración de sistemas informáticos en red). Como proyecto de fin de curso hice una pequeña aplicación web con PHP , que mediante enlaces en una página se podía utilizar un servicio Docker instalado en local. Todo muy desestructurado, "cayéndose a pedacitos", pero ese fue mi primer paso en la programación y de ahí empezó mi gusto por el código y la pasión por querer aprender más. Al finalizar el grado superior de ASIR, me adentré en el grado superior de desarrollo de aplicaciones web "DAW" (que es donde me encuentro este 2023). Con el "punto de mira" puesto en el famoso mundo de DeVops y el backend.
+Para ser breve y no enrollarme. Me adentré en el mundo de la informática en el 2020, cursando un grado superior de ASIR (administración de sistemas informáticos en red). Como proyecto de fin de curso hice una pequeña aplicación web con PHP , que mediante enlaces en una página se podía utilizar un servicio Docker instalado en local. Todo muy desestructurado, "cayéndose a pedacitos", pero ese fue mi primer paso en la programación y de ahí empezó mi gusto por el código y la pasión por querer aprender más. Al finalizar el grado superior de ASIR, me adentré en el grado superior de desarrollo de aplicaciones web "DAW" (que es donde me encuentro este 2023). Con el "punto de mira" puesto en el famoso mundo de DeVops y el backend. Actualmente poseo lo dos titulos, más de 4 años de experiencia en el sector y con ganas de adentrarme en el mundo de la ciberseguridad mientras sigo con mi trabajao (de algo hay que vivir).
 
 ## :mag_right: Qué he visto? :computer:
 
